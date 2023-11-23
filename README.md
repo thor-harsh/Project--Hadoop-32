@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project We will use Spark with Python to do an amazing stuff. We have used Spark Streaming to count the total number of status code in the log folder with window interval of 30 seconds and slide interval of 15 seconds in access_log.txt file**.<br></br>
+**In this project We will use Spark with Python to do an amazing stuff. We have used Spark Streaming to count the total number of status code in the log folder with window interval of 30 seconds and slide interval of 10 seconds in access_log.txt file**.<br></br>
 
 **Before jumping to the code lets understand Spark first**...<br></br>
 
